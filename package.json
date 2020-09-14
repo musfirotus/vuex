@@ -5,13 +5,18 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "cssbuild": "postcss src/tailwind.css -o src/assets/css/styles.css"
   },
   "dependencies": {
+    "autoprefixer": "^9.8.6",
     "core-js": "^3.6.5",
+    "postcss-cli": "^7.1.2",
     "register-service-worker": "^1.7.1",
+    "tailwindcss": "^1.8.9",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
+    "vue-sweetalert2": "^3.0.8",
     "vuex": "^3.4.0"
   },
   "devDependencies": {
