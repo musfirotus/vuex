@@ -2,18 +2,15 @@
 
 ## All Features
 
-| No. |     :Features:    |           Home           |          Cart           | Ket. Task |
-| :-: | :---------------- | :----------------------: | :---------------------: | :-------: |
-| 1.  | Menu              |    :heavy_check_mark:    |            -            | Kemarin   |
-| 2.  | Named View        |             -            |            -            | Kemarin   |
-| 3.  | Named Router      |             -            |            -            | Kemarin   |
-| 4.  | Array Pagination  |             -            |            -            | Kemarin   |
-| 4.  | Lazy Loading      |             -            |            -            | Wajib     |
+| No. |     :Features:    |           Home           |          Cart           |
+| :-: | :---------------- | :----------------------: | :---------------------: |
+| 1.  | Menu              |    :heavy_check_mark:    |    :heavy_check_mark:   |
+| 2.  | Lazy Loading      |             -            |            -            |
 
-- [ ] Implementasi Component yang berbeda-beda (Sidebar dll) (Wajib tapi Additional, wkwk)
-- [ ] Import vue router menggunakan "lazy loading router" (Wajib)
-- [ ] Semua router-link menggunakan "name" => ada di file : (Wajib)
-- [ ] Reusable Pagination (optional) => ada di tab pin chrome (Wajib tapi Additional, wkwk)
+- [x] Implementasi Component yang berbeda-beda (Checkout dll) (Wajib tapi Additional, wkwk)
+
+## Note :
+- Link sesuai deadline : [Github Commit](https://github.com/musfirotus/vuex/tree/fba5a37).
 
 ## Project setup
 ```
