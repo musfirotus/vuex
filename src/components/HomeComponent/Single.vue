@@ -8,15 +8,14 @@
         </div>
         </a>
         <h4 class="text-center">Count: {{ count }}</h4>
-        <button class="w-full font-bold h-10 bg-red-500" @click="increment">
+        <button class="w-full font-bold h-10 bg-red-500" @click="increment(1)">
             Add to Cart
         </button>
     </div>
 </template>
 
 <script>
-import { mapState } from 'vuex'
-// import { mapActions } from 'vuex'
+import { mapActions, mapState } from 'vuex'
 export default {
     name: "Single",
     props: ["product"],
@@ -24,12 +23,7 @@ export default {
         ...mapState(['count'])
     },
     methods:{
-        increment(){
-            this.$store.commit("increment")
-        }
-    },
-    // mounted(){
-    //     this.increment()
-    // }
+        ...mapActions(['increment'])
+    }
 }
 </script>

@@ -1,6 +1,6 @@
 [
   {
-    "albumId": 1,
+    "category": "item",
     "id": 1,
     "title": "Sepatu",
     "harga": 400000,
@@ -9,7 +9,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 2,
     "title": "Kacamata",
     "harga": 90000,
@@ -18,7 +18,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 3,
     "title": "Body Oil",
     "harga": 500000,
@@ -27,7 +27,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 4,
     "title": "Oats",
     "harga": 12000,
@@ -36,7 +36,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 5,
     "title": "Jam Tangan",
     "harga": 120000,
@@ -45,7 +45,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 6,
     "title": "CupCake",
     "harga": 7000,
@@ -54,7 +54,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 7,
     "title": "HP Sony",
     "harga": 7000000,
@@ -63,7 +63,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 8,
     "title": "Masker Wajah",
     "harga": 18000,
@@ -72,7 +72,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 9,
     "title": "Mouse Wireless",
     "harga": 86000,
@@ -81,7 +81,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 10,
     "title": "Biskuit",
     "harga": 2000,
@@ -90,7 +90,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 11,
     "title": "Piringan",
     "harga": 600000,
@@ -99,7 +99,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 12,
     "title": "Camera",
     "harga": 3000000,
@@ -108,7 +108,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 13,
     "title": "Camera",
     "harga": 2000000,
@@ -117,7 +117,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 14,
     "title": "Acar",
     "harga": 20000,
@@ -126,7 +126,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 15,
     "title": "Jam Tangan",
     "harga": 35000,
@@ -135,7 +135,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 16,
     "title": "Case HP",
     "harga": 55000,
@@ -144,7 +144,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 17,
     "title": "Game Console",
     "harga": 150000,
@@ -153,7 +153,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 18,
     "title": "Sepatu",
     "harga": 300000,
@@ -162,7 +162,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 19,
     "title": "Iphone",
     "harga": 9000000,
@@ -171,7 +171,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 20,
     "title": "Shaker",
     "harga": 12000,
@@ -180,7 +180,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 21,
     "title": "HP Iphone",
     "harga": 8000000,
@@ -189,7 +189,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 22,
     "title": "Camera Lens",
     "harga": 1000000,
@@ -198,7 +198,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 23,
     "title": "Lighter",
     "harga": 1500,
@@ -207,7 +207,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 24,
     "title": "Biji Kopi",
     "harga": 10000,
@@ -216,7 +216,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 25,
     "title": "Sepatu",
     "harga": 200000,
@@ -225,7 +225,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 26,
     "title": "Pisang",
     "harga": 18000,
@@ -234,7 +234,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 27,
     "title": "Topi Rajut",
     "harga": 23000,
@@ -243,7 +243,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 28,
     "title": "Americano",
     "harga": 14000,
@@ -252,7 +252,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 29,
     "title": "HandBag",
     "harga": 32000,
@@ -261,7 +261,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 30,
     "title": "Milk",
     "harga": 27000,
@@ -270,7 +270,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 31,
     "title": "Kacamata",
     "harga": 100000,
@@ -279,7 +279,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 32,
     "title": "Game Console",
     "harga": 300000,
@@ -288,7 +288,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 33,
     "title": "White Shirt",
     "harga": 70000,
@@ -297,7 +297,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 34,
     "title": "Speaker",
     "harga": 100000,
@@ -306,7 +306,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "item",
     "id": 35,
     "title": "Stickers",
     "harga": 9000,
@@ -315,7 +315,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "jasa",
     "id": 36,
     "title": "Request",
     "harga": 10000,
@@ -324,7 +324,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "jasa",
     "id": 37,
     "title": "Framework",
     "harga": 10000,
@@ -333,7 +333,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "jasa",
     "id": 38,
     "title": "Designer",
     "harga": 10000,
@@ -342,7 +342,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "jasa",
     "id": 39,
     "title": "Programmer",
     "harga": 10000,
@@ -351,7 +351,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "jasa",
     "id": 40,
     "title": "HTML",
     "harga": 10000,
@@ -360,7 +360,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "jasa",
     "id": 41,
     "title": "Java",
     "harga": 10000,
@@ -369,7 +369,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "jasa",
     "id": 42,
     "title": "Icons",
     "harga": 10000,
@@ -378,7 +378,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "jasa",
     "id": 43,
     "title": "Innovation",
     "harga": 10000,
@@ -387,7 +387,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "jasa",
     "id": 44,
     "title": "Integrated",
     "harga": 10000,
@@ -396,7 +396,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "jasa",
     "id": 45,
     "title": "UI Design",
     "harga": 10000,
@@ -405,7 +405,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "jasa",
     "id": 46,
     "title": "E-Learning",
     "harga": 10000,
@@ -414,7 +414,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "jasa",
     "id": 47,
     "title": "Boolean",
     "harga": 10000,
@@ -423,7 +423,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "jasa",
     "id": 48,
     "title": "Processor",
     "harga": 10000,
@@ -432,7 +432,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "jasa",
     "id": 49,
     "title": "AI",
     "harga": 10000,
@@ -441,7 +441,7 @@
     "quantity": 50
   },
   {
-    "albumId": 1,
+    "category": "jasa",
     "id": 50,
     "title": "Hackathon",
     "harga": 10000,

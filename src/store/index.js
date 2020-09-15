@@ -9,7 +9,8 @@ export default new Vuex.Store({
   state: {
     products: null,
     count: 0,
-    cart: []
+    cartItem: [],
+    cartItemCount: 0
   },
   getters: {
   },
@@ -17,16 +18,20 @@ export default new Vuex.Store({
     setUpProducts: (state, productsPayload) => {
       state.products = productsPayload;
     },
-    increment: (state) => {
-      state.count++
+    increment: (state, payload) => {
+      state.count += payload
     }
   },
   actions: {
     fetchProducts: ({ commit }) => {
       myApi.getProducts().then((products) => {
         commit("setUpProducts", products);
-        commit("showToast", "products loaded");
       });
+    },
+    increment: ({ commit }, payload) => {
+      setTimeout(() => {
+        commit("increment", payload)
+      }, 1000);
     }
   },
   modules: {
